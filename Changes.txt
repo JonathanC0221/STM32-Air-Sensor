@@ -1,0 +1,2 @@
+Changes made to main.c
+Implemented function for standard deviation, as well as required variables. Our sensor now decides to warn the user based off of calculated values rather than a fixed one.
